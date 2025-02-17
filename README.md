@@ -11,4 +11,4 @@ feel free to explore my projects and reach out if you'd like to chat!
 - [GitHub](https://github.com/ptk1729)
 - [LinkedIn](https://www.linkedin.com/in/prateek-rohilla)
 - [My Personal Site](https://prateekrohilla.eu)
-- [Resume](https://prateekrohilla.eu/resume)
+- [Resume](https://prateekrohilla.eu/Prateek_Rohilla_Devops.pdf)
