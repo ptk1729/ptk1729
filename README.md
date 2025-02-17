@@ -1,16 +1,14 @@
-## Hi there 👋
+# hello, i'm prateek
 
-<!--
-**ptk1729/ptk1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build software that focuses on reliability, concurrency, and automation. in my previous roles, i've worked on:
 
-Here are some ideas to get you started:
+- improving stability with well-structured tests and error reporting
+- optimizing ci/cd pipelines for smoother releases
+- expanding coverage to keep systems safe under stress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+feel free to explore my projects and reach out if you'd like to chat!
+
+- [GitHub](https://github.com/ptk1729)
+- [LinkedIn](https://www.linkedin.com/in/prateek-rohilla)
+- [My Personal Site](https://prateekrohilla.eu)
+- [Resume](https://prateekrohilla.eu/resume)
