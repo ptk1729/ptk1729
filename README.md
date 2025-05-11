@@ -12,3 +12,5 @@ feel free to explore my projects and reach out if you'd like to chat!
 - [LinkedIn](https://www.linkedin.com/in/prateek-rohilla)
 - [My Personal Site](https://prateekrohilla.eu)
 - [Resume](https://www.prateekrohilla.eu/Prateek_Resume_Devops.pdf)
+
+[![ShowPR](https://show-pr.vercel.app/embed/image/ptk1729?v=1)](https://show-pr.vercel.app)
