@@ -39,3 +39,5 @@ If you're building something in this space and think I'd be a good fit, feel fre
 - LinkedIn: [prateek-rohilla](https://linkedin.com/in/prateek-rohilla)
 - GitHub: [ptk1729](https://github.com/ptk1729)
 - Email: prateekrohilla4.pr@gmail.com
+
+[![views](https://u8views.com/api/v1/github/profiles/44028585/views/day-week-month-total-count.svg)](https://u8views.com/github/ptk1729)
